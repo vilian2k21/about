@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vilian2k21.github.io/about/sitemap.xml
